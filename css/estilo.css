@@ -7,7 +7,7 @@
 
 
 body {
-    background-color: #defffc;
+    background-color: #54b160;
 }
 /* header */
 header {
@@ -429,4 +429,13 @@ body {
         }
     }
 }
+    .contacto.c ul {
+        font-family: "helvetica";
+        color: #6eab22;
+        font-weight: 300;
+        font-size: 60px;
+
+ 
+    }
+
 
